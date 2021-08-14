@@ -1,25 +1,22 @@
-<h1 align="center">Hi 👋, I'm Akash R Chandran</h1>
+<h1 align="center">Hi 👋, I'm SBX</h1>
 
-<h3 align="center">Depressed fellow into coding nothing else</h3>
+<h3 align="center">Just checking out how Github works. Will start soon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrchandran&label=Profile%20views&color=0e75b6&style=flat" alt="akashrchandran" /> </p>
 
-- 🔭 I’m currently working on **Fixing My Life**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **React, C, C#**
+- 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on **Account check bot**
+- 👯 I’m looking to collaborate on **N/A**
 
-- 💬 Ask me about **Python3, javascript and Html/Css**
+- 💬 Ask me about **C**
 
-- 📫 How to reach me **chandranrakash@gmail.com**
+- 📫 How to reach me **bagkarshreyas@gmail.com**
 
-- ⚡ Fun fact **My life itself is funny!**
+- ⚡ Fun fact **My life is a joke!**
 
 <br>
-
-[![Spotify](https://novatorem-two-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/tmu94p08mnf6k686uc7dyox9x)
-
 
 <h3 align="left">Languages and Tools:</h3>
 
