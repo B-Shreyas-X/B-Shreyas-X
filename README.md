@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bagkarshreyas@gmail.com**
 
-- ⚡ Fun fact **My life is a joke!**
+- ⚡ Fun fact **It's gonna be alright**
 
 <br>
 
